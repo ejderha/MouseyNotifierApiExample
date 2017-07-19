@@ -3,3 +3,8 @@
 ################################################################################
 
 /Forservices.MOUSEY.Model/bin/Debug
+/Forservices.MOUSEY.Notifier.WebAPI.Example/bin
+/.vs
+/Forservices.MOUSEY.Model/obj/Debug
+/Forservices.MOUSEY.Notifier.WebAPI.Example/obj/Debug
+/packages
