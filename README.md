@@ -13,9 +13,13 @@ commands can also be interperted by Cortana, have a look at http://mousey.forser
 
 Handy use case(s)/example command automation:
 > AEX stock (cortana results).
+
 > Create appointments from your projects.
+
 > Manage workload for your app users.
+
 > Start web links/standalone apps from your projects.
+
 > Automate Office 365 actions from your projects.
 
 The endpoints can be configured on the Mousey App itself.
