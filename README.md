@@ -1,5 +1,5 @@
-# MouseyNotifierApiExample
-Mousey Notifier API Example project, all you need to make the Notifier work for your projects.
+# Mousey Notifier Api Example
+Mousey Notifier API Example project, all you need to make the Mousey Notifier work for your projects.
 
 This is the example MVC (ASP.Net) api project for the Mousey Notifier integration.
 
