@@ -32,7 +32,7 @@ To start integrading have a look to the MouseyNotifyController.cs, the Get metho
 returning your results. I have also included the Forservices.Mousey.Model.csproj for returning the right result type.
 
 All project are set on .Net Framework 4.6.2, you can downgrade if needed. This project is open source any contribution is welcome for 
-example db storage or mssq integration, or user load distribution of dataitems (notifications).
+example db storage or esb/msmq integration, or user load distribution of dataitems (notifications).
 
 For more information about the notifier please visit the following website http://mousey.forservices.net/developers.
 
