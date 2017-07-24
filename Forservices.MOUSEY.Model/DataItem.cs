@@ -7,7 +7,6 @@ namespace Forservices.MOUSEY.Model
 	/// This is a single dataitem object containing the needed data for performing a single notify action in Mousey.
 	/// </summary>
 	[Serializable]
-	[DataContract]
 	public class DataItem
 	{
 		/// <summary>
