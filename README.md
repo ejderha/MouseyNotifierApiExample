@@ -9,7 +9,7 @@ location. It's a handy app for every day's work. You can download the app for yo
 
 Another great feature is that, it can interact with your backend (API) services for data fetching and command executions on client devices.
 For example you can start websites/portals/landing pages or execute windows commands on the client devices, 
-commands can also be interperted by Cortana, have a look at http://mousey.forservices.net/Home/HowTo#notifier.
+commands can also be interperted by Cortana, have a look at https://mouseyv3.azurewebsites.net/Home/HowTo#notifier.
 
 Handy use case(s)/example command automation:
 > AEX stock (cortana results).
@@ -34,6 +34,4 @@ returning your results. I have also included the Forservices.Mousey.Model.csproj
 All project are set on .Net Framework 4.6.2, you can downgrade if needed. This project is open source any contribution is welcome for 
 example db storage or esb/msmq integration, or user load distribution of dataitems (notifications).
 
-For more information about the notifier please visit the following website http://mousey.forservices.net/Home/HowTo#notifier.
-
-If you need any help or info you can contact me at: osman@forservices.net
+For more information about the notifier please visit the following website https://mouseyv3.azurewebsites.net/Home/HowTo#notifier.
